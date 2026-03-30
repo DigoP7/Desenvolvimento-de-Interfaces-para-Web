@@ -1,0 +1,95 @@
+#identificacao {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#apresentacao {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#formacao {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#experiencia {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.titulo {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.lista {
+    background-color: white;
+    padding: 15px;
+    list-style-type: square;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: red;
+}
+
+body {
+    background-color: white;
+    font-family: sans-serif;
+    margin: 25px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 20px;
+    color: #444;
+    text-align: justify;
+}
+
+h2 {
+    color: #222;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: serif;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+img {
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 4px 4px 16px rgb(255, 0, 0);
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 8px;
+}
